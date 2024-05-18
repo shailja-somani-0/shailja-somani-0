@@ -2,7 +2,7 @@
 
 Quick facts about me: 
 
-* 🔭 I currently work as a Data Scientist at Cohere Health, developing algorithms to automate approval of prior authorizations, expediting patient care and reducing provider friction. Prior to this, I worked at Highmark Health, so I definitely enjoy the healthcare domain.
+* 🔭 I currently work as a Data Science Associate Manager at Accenture Federal Services. Prior to this, I worked as a Data Scientist at Cohere Health, developing algorithms to automate approval of prior authorizations, expediting patient care and reducing provider friction. Prior to that, I worked at Highmark Health creating furthering personalized medicine by optimizing care paths for oncology patients based on their unique combination of genomics, demographics, comorbitidies, etc. 
 * 🌱 I'm getting my MS in Applied Data Science at the University of San Diego part-time while working full-time. I hold a BS from Johns Hopkins University in Neuroscience (Focus Areas: Cognitive & Computational). 
 * :woman_health_worker: I worked as an EMT (Emergency Medical Technician) all throughout college, so my passion for using tech to improve healthcare stems from seeing the issues first-hand.
 * :brain: By combining my love for emergency medicine and tech, I developed rules-based and machine learning algorithms to be incorporated with wearable technology in the pre-hospital space. For that work, I (alongside the team I worked with it on) were issued the following patent: [USPTO No. 11763949](https://github.com/shailja-somani-0/shailja-somani-0/assets/59889731/a81f42c3-859e-4eef-b29b-4627f7b2c957): Computer-Based Tools and Techniques for Optimizing Emergency Medical Treatment. 
